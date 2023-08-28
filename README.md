@@ -1,47 +1,20 @@
 ### Hi there 👋
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-187%20hrs%2043%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+**🐱 About me** 
 
-**🐱 My GitHub Data** 
+> **🧑🏽‍💻 Junior Software Engineer at <a href="https://yazo.com.br/">Yazo</a>**
+ > 
+> **🎓 Software Engineering Academic at <a href="http://www.utfpr.edu.br/">Federal University of Technology</a>**
+ > 
 
-> 📦 ? Used in GitHub's Storage 
- > 
-> 🏆 54 Contributions in the Year 2023
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 14 Public Repositories 
- > 
-> 🔑 0 Private Repositories 
- > 
-**I'm an Early 🐤** 
 
-```text
-🌞 Morning                2 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
-🌆 Daytime                65 commits          ██████████████░░░░░░░░░░░   55.08 % 
-🌃 Evening                40 commits          ████████░░░░░░░░░░░░░░░░░   33.90 % 
-🌙 Night                  11 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.32 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   24 commits          █████░░░░░░░░░░░░░░░░░░░░   20.34 % 
-Tuesday                  10 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 % 
-Wednesday                36 commits          ████████░░░░░░░░░░░░░░░░░   30.51 % 
-Thursday                 5 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
-Friday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Saturday                 33 commits          ███████░░░░░░░░░░░░░░░░░░   27.97 % 
-Sunday                   10 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 % 
-```
 
 
 📊 **This Week I Spent My Time On** 
 
 ```text
-🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
 TypeScript               6 hrs 37 mins       ███████████░░░░░░░░░░░░░░   45.10 % 
@@ -76,15 +49,6 @@ Dart                     1 repo              ██░░░░░░░░░�
 Python                   1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
 HTML                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
 ```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/danielr0d/danielr0d/main/assets/bar_graph.png)
-
-
- Last Updated on 28/08/2023 05:50:37 UTC
 <!--END_SECTION:waka-->
 
 <!--
