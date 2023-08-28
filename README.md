@@ -1,8 +1,6 @@
-### Hi there 👋
-
 <!--START_SECTION:waka-->
 
-**🐱 About me** 
+**🐛 About me** 
 
 > **🧑🏽‍💻 Junior Software Engineer at <a href="https://yazo.com.br/">Yazo</a>**
  > 
@@ -11,6 +9,7 @@
 
 
 
+<br/>
 
 📊 **This Week I Spent My Time On** 
 
