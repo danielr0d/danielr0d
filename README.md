@@ -1,7 +1,7 @@
 
 <body >
   <div style="display: flex; width: auto; margin-right: 30px ">
-    <img align="right" width="286" height="263" style="padding-right:20px; " src="assets/umiko.gif" alt="Computer man" />
+    <img align="right" width="312" height="274" style="padding-right:20px; " src="assets/umiko.gif" alt="Computer man" />
     <ul style="flex: 1;">
       <li><h4>🧑🏽‍💻 | Junior Software Engineer at <a href="https://www.yazo.com.br/">Yazo</a></h4></li>
       <li><h4>🎓 | Software Engineering Academic at <a href="http://www.utfpr.edu.br/">Federal University of Technology</a></h4></li>
