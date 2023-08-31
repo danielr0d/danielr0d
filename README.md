@@ -1,3 +1,20 @@
+
+<body >
+  <div style="display: flex; width: auto; margin-right: 30px ">
+    <img align="right" width="236" height="230" style="padding-right:20px; " src="assets/umiko.gif" alt="Computer man" />
+    <ul style="flex: 1;">
+      <li><h4>🧑🏽‍💻 | Junior Software Engineer at <a href="https://www.yazo.com.br/">Yazo</a></h4></li>
+      <li><h4>🎓 | Software Engineering Academic at <a href="http://www.utfpr.edu.br/">Federal University of Technology</a></h4></li>
+      <br/>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=ts,react,go,swift,c,ts,postgres,nodejs,js,heroku,gradle,firebase,flutter,docker,aws,arduino,redis,sqlite&theme=light&&perline=6 " />
+      </a>
+    </ul>  
+    <br/>
+  </div>
+</body>
+
+
 <!--START_SECTION:waka-->
 📊 **This Week I Spent My Time On** 
 
