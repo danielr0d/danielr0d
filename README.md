@@ -7,7 +7,7 @@
       <li><h4>🎓 | Software Engineering Academic at <a href="http://www.utfpr.edu.br/">Federal University of Technology</a></h4></li>
       <br/>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=ts,react,go,swift,c,ts,postgres,nodejs,js,heroku,gradle,firebase,flutter,docker,aws,arduino,redis,sqlite&theme=light&&perline=6 " />
+        <img src="https://skillicons.dev/icons?i=ts,react,go,swift,c,ts,postgres,nodejs,js,heroku,gradle,firebase,flutter,docker,aws,arduino,redis,adonis&theme=light&&perline=6 " />
       </a>
     </ul>  
     <br/>
