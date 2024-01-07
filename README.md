@@ -4,7 +4,7 @@
     <img align="right" width="312" height="274" style="padding-right:20px; " src="assets/umiko.gif" alt="Computer man" />
     <ul style="flex: 1;">
       <li><h4>🧑🏽‍💻 | Junior Software Engineer at <a href="https://www.yazo.com.br/">Yazo</a></h4></li>
-      <li><h4>🎓 | Software Engineering Academic  <a href="http://www.utfpr.edu.br/">Federal University of Technology</a></h4></li>
+      <li><h4>🎓 | Software Engineering Academic at <a href="http://www.utfpr.edu.br/">Federal University of Technology</a></h4></li>
       <br/>
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=ts,react,nodejs,go,swift,js,adonis,postgres,c,heroku,gradle,firebase,flutter,docker,aws,java,redis,kubernetes&theme=light&&perline=6 " />
