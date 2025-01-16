@@ -1,4 +1,4 @@
-<body>
+<body style="margin-bottom: 40px; gap: 20px">
   <div style="display: flex; flex-direction: column; width: auto; margin: 0 auto; padding: 20px;">
     <ul style="flex: 1; margin-bottom: 20px;">
       <li><h4>🧑🏽‍💻 | Full Stack Developer at <a href="https://itafrotas.com//">ITA Frotas</a></h4></li>
@@ -7,7 +7,7 @@
     </ul>
     <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
       <a href="https://skillicons.dev">
-        <img width="312" height="274" src="https://skillicons.dev/icons?i=cs,dotnet,php,laravel,ts,js,nodejs,react,swift,java,adonis,postgres,mysql,mongodb,postman,c,heroku,gradle,npm,flutter,docker,aws,redis,kubernetes&theme=light&&perline=6" />
+        <img width="312" height="274" src="https://skillicons.dev/icons?i=cs,dotnet,php,laravel,ts,js,nodejs,react,swift,java,adonis,postgres,mysql,mongodb,postman,c,heroku,gradle,npm,flutter,docker,aws,redis,kubernetes&theme=light&&perline=4" />
       </a>
       <img width="312" height="274" src="assets/umiko.gif" alt="Computer Boy" />
     </div>
