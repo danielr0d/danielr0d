@@ -1,13 +1,13 @@
 
 <body >
   <div style="display: flex; width: auto; margin-right: 30px ">
-    <img align="right" width="312" height="274" style="padding-right:20px; " src="assets/umiko.gif" alt="Computer man" />
+    <img align="right" width="312" height="274" style="padding-right:20px; " src="assets/umiko.gif" alt="Computer Boy" />
     <ul style="flex: 1;">
       <li><h4>🧑🏽‍💻 | Full Stack Developer at <a href="https://itafrotas.com//">ITA Frotas</a></h4></li>
       <li><h4>🎓 | Software Engineering Academic at <a href="http://www.utfpr.edu.br/">Federal University of Technology</a></h4></li>
       <br/>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=ts,react,nodejs,go,swift,js,adonis,postgres,c,heroku,gradle,firebase,flutter,docker,aws,java,redis,kubernetes&theme=light&&perline=6 " />
+        <img src="https://skillicons.dev/icons?i=cs,dotnet,php,laravel,ts,js,nodejs,react,swift,java,adonis,postgres,mysql,mongodb,postman,c,heroku,gradle,npm,flutter,docker,aws,redis,kubernetes&theme=light&&perline=6 " />
       </a>
     </ul>  
     <br/>
