@@ -1,8 +1,8 @@
 <body style="margin-bottom: 40px; gap: 20px">
   <div style="display: flex; flex-direction: column; width: auto; margin: 0 auto; padding: 20px;">
     <ul style="flex: 1; margin-bottom: 20px;">
-      <li><h4>🧑🏽‍💻 | Full Stack Developer at <a href="https://itafrotas.com//">ITA Labs</a></h4></li>
-      <li><h4>🎓 | Software Engineering Academic at <a href="http://www.utfpr.edu.br/">Federal University of Technology</a></h4></li>
+      <li><h4>🧑🏽‍💻 | Full Stack Developer @ <a href="https://itafrotas.com//">ITA Labs</a></h4></li>
+      <li><h4>🎓 | Software Engineering Academic @ <a href="http://www.utfpr.edu.br/">Federal University of Technology</a></h4></li>
       <br/>
     </ul>
     <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
