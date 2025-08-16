@@ -20,10 +20,10 @@
 
 ```text
 💬 Programming Languages: 
-C#                       0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Rider                    0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
