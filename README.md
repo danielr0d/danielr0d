@@ -20,10 +20,10 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    2 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+iTerm2                   2 mins              █████████████████████████   100.00 % 
 ```
 
 
