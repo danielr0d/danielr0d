@@ -6,9 +6,6 @@
       <br/>
     </ul>
     <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-      <a href="https://skillicons.dev">
-        <img width="312" height="274" src="https://skillicons.dev/icons?i=cs,dotnet,php,laravel,ts,js,nodejs,react,swift,java,adonis,postgres,mysql,mongodb,postman,c,heroku,gradle,npm,flutter,docker,aws,redis,kubernetes&theme=light&&perline=4" />
-      </a>
       <img width="312" height="274" src="assets/umiko.gif" alt="Computer Boy" />
     </div>
   </div>
