@@ -2,6 +2,21 @@
 
 
 <!--START_SECTION:waka-->
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+C#                       4 hrs 18 mins       ████████████████████████░   95.73 % 
+Rust                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
+XML                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
+ASP.NET                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+
+🔥 Editors: 
+Rider                    4 hrs 23 mins       ████████████████████████░   97.80 % 
+Neovim                   5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
+```
+
 
 <!--END_SECTION:waka-->
 
