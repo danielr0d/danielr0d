@@ -8,18 +8,17 @@
 
 ```text
 💬 Programming Languages: 
-C#                       10 mins             █████████████░░░░░░░░░░░░   50.03 % 
-XML                      10 mins             ████████████░░░░░░░░░░░░░   49.97 % 
+XML                      10 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Rider                    21 mins             █████████████████████████   98.44 % 
-Copilot CLI              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
+Rider                    10 mins             ████████████████████████░   96.87 % 
+Copilot CLI              0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 0 secs (1.56%)
+⏱ AI Coding Time: 0 secs (3.13%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
