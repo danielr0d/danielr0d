@@ -8,33 +8,16 @@
 
 ```text
 💬 Programming Languages: 
-XML                      10 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Rider                    10 mins             ████████████████████████░   96.87 % 
-Copilot CLI              0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 0 secs (3.13%)
-
-✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
-
-🔤 0 Input Tokens, 1,750 Output Tokens
-
-💵 $0.01 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 1 AI Prompts
-
-Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📝 Concise Prompter — average 79 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
-🚀 High AI Trust — 0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 
